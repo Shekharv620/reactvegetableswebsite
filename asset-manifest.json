@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactvegetableswebsite/static/css/main.448bd517.chunk.css",
+    "main.js": "/reactvegetableswebsite/static/js/main.37993304.chunk.js",
+    "main.js.map": "/reactvegetableswebsite/static/js/main.37993304.chunk.js.map",
+    "runtime-main.js": "/reactvegetableswebsite/static/js/runtime-main.4b6ba453.js",
+    "runtime-main.js.map": "/reactvegetableswebsite/static/js/runtime-main.4b6ba453.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/reactvegetableswebsite/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8bede663.chunk.js": "/reactvegetableswebsite/static/js/2.8bede663.chunk.js",
+    "static/js/2.8bede663.chunk.js.map": "/reactvegetableswebsite/static/js/2.8bede663.chunk.js.map",
+    "static/js/3.a1f9fa17.chunk.js": "/reactvegetableswebsite/static/js/3.a1f9fa17.chunk.js",
+    "static/js/3.a1f9fa17.chunk.js.map": "/reactvegetableswebsite/static/js/3.a1f9fa17.chunk.js.map",
+    "index.html": "/reactvegetableswebsite/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/reactvegetableswebsite/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.448bd517.chunk.css.map": "/reactvegetableswebsite/static/css/main.448bd517.chunk.css.map",
+    "static/js/2.8bede663.chunk.js.LICENSE.txt": "/reactvegetableswebsite/static/js/2.8bede663.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b6ba453.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8bede663.chunk.js",
+    "static/css/main.448bd517.chunk.css",
+    "static/js/main.37993304.chunk.js"
+  ]
+}
